@@ -2,13 +2,13 @@
 
 Techonolgies used
 
-nodemailer to send the emails
-Auth for the authetication 
-jwt tokens
-bcrypt for the passwors encriptions
-helmet for setting secuirty improtant header
-cors for the  security(only localhost:3000 is allowed to make request)
-express 
+nodemailer to send the emails, 
+Auth for the authetication , 
+jwt tokens,
+bcrypt for the passwors encriptions,
+helmet for setting secuirty improtant header,
+cors for the  security(only localhost:3000 is allowed to make request),
+express ,
 node
 
 
