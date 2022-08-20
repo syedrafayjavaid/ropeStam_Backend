@@ -13,7 +13,7 @@ node
 
 
 
-Note: only "http://localhost:3000"" is allowed in cors( for security)
+Note: only "http://localhost:3000"" is allowed in cors to send req , if you want to send req for other url(Apis testing purpose) , simply remove origin( line 18 in server.js file) from cors.
 
 
 How to start ropeStam appp backend? 
